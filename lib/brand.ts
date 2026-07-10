@@ -422,12 +422,12 @@ export const brand: Brand = {
         position: "center",
       },
       {
-        src: "https://res.cloudinary.com/dcc5ggnkc/video/upload/v1780581425/w22e5ae19sjiofurtmlm.mp4",
+        src: "https://res.cloudinary.com/dzykdnbvb/video/upload/v1783675063/ssstik.io_1783674876630_blxfk1.mp4",
         alt: "Infinity Spa beauty media video",
         position: "center",
       },
       {
-        src: "https://res.cloudinary.com/dcc5ggnkc/video/upload/v1780581429/hptukehgmrufp33qyd5e.mp4",
+        src: "https://res.cloudinary.com/dzykdnbvb/video/upload/v1783675059/ssstik.io_1783674880588_msqdoy.mp4",
         alt: "Infinity Spa salon media video",
         position: "center",
       },
